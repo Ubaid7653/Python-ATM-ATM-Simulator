@@ -9,6 +9,8 @@ A console-based application that simulates basic ATM functionalities, allowing u
 - Deposit money into the account
 - Withdraw money with balance checks
 - User-friendly console interface
+  
+<img width="752" alt="atm ss" src="https://github.com/user-attachments/assets/dfbb53a1-36aa-48ba-857b-be762736c22d" />
 
 ## How to Run
 1. Ensure you have Python installed on your machine.
